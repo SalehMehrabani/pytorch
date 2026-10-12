@@ -1,0 +1,4 @@
+cifar*
+*.pt
+venv/
+venv*/
